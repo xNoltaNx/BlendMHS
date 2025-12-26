@@ -18,7 +18,7 @@
       "permissions": {
         "files": "Required for USD import/export to disk"
       },
-      "archive_url": "https://github.com/xNoltaNx/BlendMHS/releases/download/v0.1.0/BlendMHS-0.1.0.zip",
+      "archive_url": "https://github.com/xNoltaNx/BlendMHS/releases/download/BlendMHS/BlendMHS-0.1.0.zip",
       "archive_size": 39140103,
       "archive_hash": "sha256:ecb4eedaf1712259e1acdef8343e84e9dfdc5319f177bd0b194c7427304de26c"
     }
