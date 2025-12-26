@@ -1,0 +1,26 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "id": "BlendMHS",
+      "name": "BlendMHS",
+      "version": "0.1.0",
+      "tagline": "Meta Horizon Studio USD export and material authoring",
+      "maintainer": "Randy Nolta <rnolta@meta.com>",
+      "type": "add-on",
+      "schema_version": "1.0.0",
+      "blender_version_min": "4.5.0",
+      "license": ["SPDX:GPL-3.0-or-later"],
+      "copyright": ["2024 Meta Platforms, Inc."],
+      "tags": ["Import-Export", "Material", "Pipeline"],
+      "platforms": ["windows-x64"],
+      "permissions": {
+        "files": "Required for USD import/export to disk"
+      },
+      "archive_url": "https://github.com/YOUR_USERNAME/BlendMHS/releases/download/v0.1.0/BlendMHS-0.1.0.zip",
+      "archive_size": 0,
+      "archive_hash": "sha256:REPLACE_WITH_ACTUAL_HASH"
+    }
+  ]
+}
